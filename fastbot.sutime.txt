@@ -1,0 +1,6 @@
+
+    YTD = {
+        type: DAY_OF_YEAR,
+        value: InexactDuration( TimeRange( IsoDate(YEAR, 1, 1), TIME_NOW ) )
+    }
+    
